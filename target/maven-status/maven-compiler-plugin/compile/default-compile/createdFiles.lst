@@ -1,0 +1,15 @@
+com\app\Notas\controllers\LoginControllerTemplate.class
+com\app\Notas\NotasApplication.class
+com\app\Notas\entity\Categoria.class
+com\app\Notas\repository\CategoriaRepository.class
+com\app\Notas\controllers\UsuarioController.class
+com\app\Notas\entity\Nota.class
+com\app\Notas\controllers\CategoriaControllerTemplate.class
+com\app\Notas\controllers\CategoriaController.class
+com\app\Notas\repository\NotaRepository.class
+com\app\Notas\controllers\NotaController.class
+com\app\Notas\controllers\UsuarioControllerTemplate.class
+com\app\Notas\entity\Usuario.class
+com\app\Notas\exception\NotFoundException.class
+com\app\Notas\controllers\NotaControllerTemplates.class
+com\app\Notas\repository\UsuarioRepository.class
